@@ -6,8 +6,8 @@ Il codice presente in questo repository è stato scritto durante le riprese del 
 
 ## Video Utili
 
-[Spiegazione punteggi del bowling](https://youtu.be/JvCNyk9sa-8)
-[Cos'è React](https://youtu.be/kWX4AkguDN4)
+[Spiegazione punteggi del bowling](https://youtu.be/JvCNyk9sa-8)\\
+[Cos'è React](https://youtu.be/kWX4AkguDN4)\\
 [Walkthrough al codice](https://youtu.be/ZNtQMFCZl04)
 
 ## Quick start
